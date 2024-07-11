@@ -1,0 +1,7 @@
+models/
+logs/
+__pycache__/
+data/
+leap24/
+leap-atmospheric-physics-ai-climsim/
+*.csv
